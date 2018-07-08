@@ -1,2 +1,0 @@
-# pemulungBTC
-Auto Minning Bitcoin
